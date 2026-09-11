@@ -2,9 +2,9 @@
   "name": "1dv610-pair-programming",
   "version": "1.0.0",
   "description": "Säkerhetsverktyg för att skapa och bedöma lösenord.",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint . --ext .js",
     "lint:fix": "eslint . --ext .js --fix"
@@ -12,7 +12,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Abbas288/1dv610-pair-programming.git"
-    
   },
   "keywords": [],
   "author": "",
