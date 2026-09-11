@@ -7,6 +7,7 @@ Det här är vad vi ska göra under workshopen.
 **Kontext:** Säkerhetsverktyg för att skapa och bedöma lösenord.
 
 ### User Stories
+Applikationens krav är skrivna som user stories.
 
 #### US1: Generera lösenord
 Som användare vill jag ange längd och teckentyper (bokstäver, siffror och specialtecken) och få ett slumpat lösenord.
