@@ -26,7 +26,7 @@
     "@lnu/eslint-config": "^2.0.13",
     "@stylistic/eslint-plugin": "^5.10.0",
     "eslint": "^10.10.0",
-    "eslint-plugin-jsdoc": "^63.3.3",
+    "eslint-plugin-jsdoc": "^64.3.8",
     "eslint-plugin-n": "^18.3.0",
     "eslint-plugin-regexp": "^3.3.0",
     "eslint-plugin-security": "^4.0.1",
