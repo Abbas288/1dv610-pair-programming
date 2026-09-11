@@ -1,0 +1,21 @@
+{
+  "name": "1dv610-pair-programming",
+  "version": "1.0.0",
+  "description": "Säkerhetsverktyg för att skapa och bedöma lösenord.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abbas288/1dv610-pair-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Abbas288/1dv610-pair-programming/issues"
+  },
+  "homepage": "https://github.com/Abbas288/1dv610-pair-programming#readme"
+}
